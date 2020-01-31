@@ -1,3 +1,4 @@
+#Author: Vidhi Panda <vidhimpanda@gmail.com>
 #Concatenates two string
 def concatenation(strng1,strng2):
     concatenate = strng1+" "+strng2
