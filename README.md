@@ -1,2 +1,2 @@
 # pypy
-Learning Python3 using HackerRank.
+Learning Python3 using HackerRank!
